@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":"AAGAA,SAASC,iBAAiB,oBAAoB","sources":["webpack://global-dogs/./src/index.js"],"sourcesContent":["// IMPORT components to here to load\n\n\ndocument.addEventListener(\"DOMContentLoaded\", () => {\n\n\n})\n"],"names":["document","addEventListener"],"sourceRoot":""}
