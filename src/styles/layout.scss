@@ -1,0 +1,20 @@
+@use "variables" as *;
+
+#navbar {
+    width: $whole-width;
+    height: $nav-height;
+    background-color: $grey;
+
+    display: flex;
+}
+
+#main-container {
+    width: $whole-width;
+    height: $main-height;
+}
+
+#footer-container {
+    width: $whole-width;
+    height: $nav-height;
+    background-color: $grey;
+}
