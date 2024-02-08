@@ -1,5 +1,7 @@
-@use "/src/styles/variables";
+@use "./styles/variables";
 
-@use "/src/styles/layout.scss";
+@use "./styles/layout.scss";
 
-@use "/src/styles/navbar.scss"
+@use "./styles/navbar.scss";
+
+@use "./styles/main.scss"

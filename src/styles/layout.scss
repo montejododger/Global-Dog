@@ -1,16 +1,19 @@
 @use "variables" as *;
 
 #navbar {
+    display: flex;
+
     width: $whole-width;
     height: $nav-height;
     background-color: $grey;
-
-    display: flex;
 }
 
 #main-container {
+    display: flex;
+
     width: $whole-width;
     height: $main-height;
+    background-color: $crystal;
 }
 
 #footer-container {
