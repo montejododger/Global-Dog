@@ -17,6 +17,8 @@
 }
 
 #footer-container {
+    display: flex;
+    
     width: $whole-width;
     height: $nav-height;
     background-color: $grey;

@@ -2,6 +2,11 @@
     .main-left-container,
     .main-right-container {
         display: flex;
+        flex-direction: column;
         width: 50%;
+    }
+
+    .main-left-container{
+        align-items: center;
     }
 }

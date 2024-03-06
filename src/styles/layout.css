@@ -1,0 +1,20 @@
+#navbar {
+  display: flex;
+  width: 100lvw;
+  height: 5lvh;
+  background-color: rgba(157, 158, 150, 0.368627451);
+}
+
+#main-container {
+  display: flex;
+  width: 100lvw;
+  height: 90lvh;
+  background-color: #a8dadd;
+}
+
+#footer-container {
+  width: 100lvw;
+  height: 5lvh;
+  display: flex;
+  background-color: rgba(157, 158, 150, 0.368627451);
+}/*# sourceMappingURL=layout.css.map */
