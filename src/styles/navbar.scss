@@ -9,5 +9,9 @@
     }
     .navbar-right {
         justify-content: end;
+        .nav-links{
+            width: 30px;
+            height: 24px;
+        }
     }
 }

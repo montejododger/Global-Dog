@@ -7,3 +7,15 @@
 @use "./styles/main.scss";
 
 @use "./styles/footer.scss";
+
+@use "./styles/bootstrap.scss";
+
+body {
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+#svgMap {
+    width: 100%;
+    height: 100%;
+}

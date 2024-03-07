@@ -16,6 +16,7 @@ const createNavTitle = () => {
     const h3 = document.createElement("h3");
 
     h3.classList.add(`navbar-title`);
+    // h3.classList.add(`navbar-brand`);
     h3.innerText = `Global Dawgs`;
 
     navBarLeft.appendChild(h3);
